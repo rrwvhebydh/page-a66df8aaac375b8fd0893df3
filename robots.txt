@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.w98s.cn/sitemap.xml
